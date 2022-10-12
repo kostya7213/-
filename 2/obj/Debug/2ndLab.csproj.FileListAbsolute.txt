@@ -8,3 +8,14 @@ D:\CompGraph2\2ndLab\bin\Debug\2ndLab.exe
 D:\CompGraph2\2ndLab\bin\Debug\2ndLab.pdb
 D:\CompGraph2\2ndLab\obj\Debug\2ndLab.exe
 D:\CompGraph2\2ndLab\obj\Debug\2ndLab.pdb
+C:\Users\kosty\OneDrive\Рабочий стол\КГ\2\obj\Debug\2ndLab.csproj.AssemblyReference.cache
+C:\Users\kosty\OneDrive\Рабочий стол\КГ\2\obj\Debug\2ndLab.csproj.SuggestedBindingRedirects.cache
+C:\Users\kosty\OneDrive\Рабочий стол\КГ\2\obj\Debug\_2ndLab.Form1.resources
+C:\Users\kosty\OneDrive\Рабочий стол\КГ\2\obj\Debug\_2ndLab.Properties.Resources.resources
+C:\Users\kosty\OneDrive\Рабочий стол\КГ\2\obj\Debug\2ndLab.csproj.GenerateResource.cache
+C:\Users\kosty\OneDrive\Рабочий стол\КГ\2\obj\Debug\2ndLab.csproj.CoreCompileInputs.cache
+C:\Users\kosty\OneDrive\Рабочий стол\КГ\2\obj\Debug\2ndLab.exe
+C:\Users\kosty\OneDrive\Рабочий стол\КГ\2\obj\Debug\2ndLab.pdb
+C:\Users\kosty\OneDrive\Рабочий стол\КГ\2\bin\Debug\2ndLab.exe.config
+C:\Users\kosty\OneDrive\Рабочий стол\КГ\2\bin\Debug\2ndLab.exe
+C:\Users\kosty\OneDrive\Рабочий стол\КГ\2\bin\Debug\2ndLab.pdb

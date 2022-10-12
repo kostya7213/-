@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5baaf69e-3d52-40fb-98a2-244997f99220": {
+      "ProjectGuid": "5baaf69e-3d52-40fb-98a2-244997f99220",
+      "DisplayName": "TaskOpenGL",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

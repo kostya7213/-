@@ -19,7 +19,18 @@ namespace testform
 		Pen userPen;
 		int w, h;
 		double xmin, xmax, ymin, ymax;
-		double step=0.01;
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        double step =0.01;
 		public Form1()
 		{
 			InitializeComponent();
@@ -76,14 +87,14 @@ namespace testform
 			if(textBox1.Text!="")
 			step = Convert.ToDouble(textBox1.Text);
 			pictureBox1_paint(sender, e);
-			xmin = ((a + b) * Math.Cos(t) - a * Math.Cos((a + b) * t / a));
+			xmin = a * Math.Pow(Math.Cos(t),2) + b * Math.Cos(t);
 			xmax = xmin;
-			ymin = ((a + b) * Math.Sin(t) - a * Math.Sin((a + b) * t / a));
+			ymin = a * Math.Cos(t)*Math.Sin(t)+b*Math.Sin(t);
 			ymax = ymin;
 			while (t < Math.PI * 2)
 			{
-				x = ((a + b) * Math.Cos(t) - a * Math.Cos((a + b) * t / a));
-				y = ((a + b) * Math.Sin(t) - a * Math.Sin((a + b) * t / a));
+				x = a * Math.Pow(Math.Cos(t),2) + b * Math.Cos(t);
+				y = a * Math.Cos(t)*Math.Sin(t)+b*Math.Sin(t);
 				if (x < xmin) xmin = x;
 				if (x > xmax) xmax = x;
 				if (y < ymin) ymin = y;
@@ -115,7 +126,7 @@ namespace testform
 		{
 			w = pictureBox1.Width;
 			h = pictureBox1.Height;
-			x0 = w / 2;
+			x0 = w / 4;
 			y0 = h / 2;
 		}
 		private void Axis(object sender, EventArgs e,double scale)
@@ -154,3 +165,4 @@ namespace testform
 		}
 	}
 }
+

@@ -1,2 +1,6 @@
-﻿  TaskOpenGL.cpp
-  TaskOpenGL.vcxproj -> C:\Users\Денис\source\repos\TaskOpenGL\Debug\TaskOpenGL.exe
+﻿  CMatrix.cpp
+C:\Users\kosty\OneDrive\Рабочий стол\КГ\3\TaskOpenGL\CMatrix.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  CVector.cpp
+  TaskOpenGL.cpp
+C:\Users\kosty\OneDrive\Рабочий стол\КГ\3\TaskOpenGL\TaskOpenGL.cpp(2,10): fatal error C1083: Не удается открыть файл включение: SOIL.h: No such file or directory,
+  Создание кода...
