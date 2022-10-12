@@ -1,0 +1,10 @@
+D:\CompGraph2\2ndLab\obj\Debug\2ndLab.csproj.AssemblyReference.cache
+D:\CompGraph2\2ndLab\obj\Debug\_2ndLab.Form1.resources
+D:\CompGraph2\2ndLab\obj\Debug\_2ndLab.Properties.Resources.resources
+D:\CompGraph2\2ndLab\obj\Debug\2ndLab.csproj.GenerateResource.cache
+D:\CompGraph2\2ndLab\obj\Debug\2ndLab.csproj.CoreCompileInputs.cache
+D:\CompGraph2\2ndLab\bin\Debug\2ndLab.exe.config
+D:\CompGraph2\2ndLab\bin\Debug\2ndLab.exe
+D:\CompGraph2\2ndLab\bin\Debug\2ndLab.pdb
+D:\CompGraph2\2ndLab\obj\Debug\2ndLab.exe
+D:\CompGraph2\2ndLab\obj\Debug\2ndLab.pdb
